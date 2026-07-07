@@ -34,7 +34,7 @@ Le entry sono curate per funzionare bene con Smart IPTV e includono, dove dispon
 | Campo | Uso |
 | --- | --- |
 | `tvg-id` | identificativo EPG |
-| `tvg-chno` | numero canale |
+| `tvg-chno` | numero canale, preferendo la LCN DTT italiana e usando Tivusat come fallback quando manca una LCN terrestre attuale |
 | `tvg-logo` | logo del canale |
 | `tvg-country` | paese |
 | `tvg-language` | lingua |

@@ -49,12 +49,10 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="RTL102.5TV.it" tvg-chno="36" tvg-logo="https://cdn.jsdelivr.net/gh/pasq96/IPTV-Italia/logos/rtl1025tv.png" tvg-country="IT" tvg-language="Italiano" group-title="Radio",RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
-#EXTINF:-1 tvg-id="WarnerTV.it" tvg-chno="37" tvg-logo="https://cdn.jsdelivr.net/gh/pasq96/IPTV-Italia/logos/warnertv.png" tvg-country="IT" tvg-language="Italiano" group-title="Discovery",Warner TV
-https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/WARNERTV/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="Giallo.it" tvg-chno="38" tvg-logo="https://cdn.jsdelivr.net/gh/pasq96/IPTV-Italia/logos/giallo.png" tvg-country="IT" tvg-language="Italiano" group-title="Discovery",Giallo
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.it" tvg-chno="401" tvg-logo="https://cdn.jsdelivr.net/gh/pasq96/IPTV-Italia/logos/discoverychannel.png" tvg-country="IT" tvg-language="Italiano" group-title="Discovery",Discovery Channel
-https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.it" tvg-chno="37" tvg-logo="https://cdn.jsdelivr.net/gh/pasq96/IPTV-Italia/logos/discoverychannel.png" tvg-country="IT" tvg-language="Italiano" group-title="Discovery",Discovery
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/WARNERTV/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="TopCrime.it" tvg-chno="39" tvg-logo="https://cdn.jsdelivr.net/gh/pasq96/IPTV-Italia/logos/topcrime.png" tvg-country="IT" tvg-language="Italiano" group-title="Mediaset",Top Crime
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Boing.it" tvg-chno="40" tvg-logo="https://cdn.jsdelivr.net/gh/pasq96/IPTV-Italia/logos/boing.png" tvg-country="IT" tvg-language="Italiano" group-title="Mediaset",Boing
@@ -109,7 +107,7 @@ https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-id="RTL102.5News.it" tvg-chno="233" tvg-logo="https://cdn.jsdelivr.net/gh/pasq96/IPTV-Italia/logos/rtl1025tv.png" tvg-country="IT" tvg-language="Italiano" group-title="Radio",RTL 102.5 News
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
-#EXTINF:-1 tvg-id="VirginRadio.it" tvg-chno="257" tvg-logo="https://cdn.jsdelivr.net/gh/pasq96/IPTV-Italia/logos/virginradiotv.png" tvg-country="IT" tvg-language="Italiano" group-title="Radio" user-agent="HbbTV/1.6.1",VIRGIN RADIO
+#EXTINF:-1 tvg-id="VirginRadio.it" tvg-chno="68" tvg-logo="https://cdn.jsdelivr.net/gh/pasq96/IPTV-Italia/logos/virginradiotv.png" tvg-country="IT" tvg-language="Italiano" group-title="Radio" user-agent="HbbTV/1.6.1",VIRGIN RADIO
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="RadioFreccia.it" tvg-chno="258" tvg-logo="https://cdn.jsdelivr.net/gh/pasq96/IPTV-Italia/logos/radiofrecciatv.png" tvg-country="IT" tvg-language="Italiano" group-title="Radio",RADIO FRECCIA
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
@@ -123,5 +121,5 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/pl
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
 #EXTINF:-1 tvg-id="M2OTv.it" tvg-chno="715" tvg-logo="https://cdn.jsdelivr.net/gh/pasq96/IPTV-Italia/logos/radiom2otv.png" tvg-country="IT" tvg-language="Italiano" group-title="Radio",M2O TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioMontecarlo.it" tvg-chno="772" tvg-logo="https://cdn.jsdelivr.net/gh/pasq96/IPTV-Italia/logos/radiomontecarlotv.png" tvg-country="IT" tvg-language="Italiano" group-title="Radio" user-agent="HbbTV/1.6.1",Radio Montecarlo TV
+#EXTINF:-1 tvg-id="RadioMontecarlo.it" tvg-chno="67" tvg-logo="https://cdn.jsdelivr.net/gh/pasq96/IPTV-Italia/logos/radiomontecarlotv.png" tvg-country="IT" tvg-language="Italiano" group-title="Radio" user-agent="HbbTV/1.6.1",Radio Montecarlo TV
 https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
